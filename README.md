@@ -58,11 +58,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drishyakammu2110-source&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
 </p>
 
-## 🐍 My Contribution Journey
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution animation" />
-</p>
 
 ---
 
